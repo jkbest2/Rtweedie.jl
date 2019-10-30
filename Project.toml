@@ -1,0 +1,10 @@
+name = "Rtweedie"
+uuid = "80e69f04-4504-5083-8692-55c67dca8f53"
+
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+RCall = "6f49c342-dc21-5d91-9882-a32aef131414"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+
+[compat]
+julia = "≥ 0.6.0"
